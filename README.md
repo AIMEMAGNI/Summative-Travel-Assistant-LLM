@@ -1,6 +1,7 @@
 # Travel Assistant Chatbot
 
 This project implements a travel assistant chatbot that uses the T5 model to generate responses to travel-related queries. The model has been fine-tuned on a dataset designed for training travel-related chatbots, and the interface is built using Gradio, allowing users to interact with the chatbot in real-time.
+![Travel Assistant Chatbot UI](CHATBOTCapture.JPG)
 
 ## Features
 - **Preprocessing**: The input text is normalized to improve the model's response generation accuracy.
