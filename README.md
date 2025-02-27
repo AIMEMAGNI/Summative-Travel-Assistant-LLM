@@ -47,13 +47,23 @@ iface.launch()
 
 This will launch a Gradio web interface where you can chat with the assistant.
 
+## Current Demo
+
+You can interact with the Travel Assistant Chatbot in real-time by visiting the following link:
+
+[**Try the Travel Assistant Chatbot Demo**](https://5a6ab499e7eff4f49f.gradio.live/)
+
 ## Training Results
 - **Initial Loss**: 0.63
 - **Tuned Loss**: 0.36
 
 These results indicate that the fine-tuning process improved the model's ability to generate relevant responses.
 
+## Video Explanation
+
+Watch the video to understand how the Travel Assistant Chatbot works and the steps involved in building it:
+
+[**Watch the Project Explanation Video**](https://www.loom.com/share/b043d8b8caf54c2c91c51899bdf66533?sid=7fe8ad5f-bc05-43cb-a32e-ca85be247f5c)
+
 ## Contributing
 Feel free to open an issue or submit a pull request if you'd like to contribute to the project.
-
-
